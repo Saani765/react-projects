@@ -1,3 +1,12 @@
+# Run the app using the link : "https://jade-froyo-09e525.netlify.app/"
+
+# Do Star if you like it ⭐
+
+# It is made using React 18 😊
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
